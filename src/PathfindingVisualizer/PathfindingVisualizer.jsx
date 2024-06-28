@@ -415,14 +415,9 @@ export default class PathfindingVisualizer extends Component {
               <li className="nav-item">
                 <a
                   className="nav-link"
-                  href="http://www.github.com/PrudhviGNV/pathFinderVisualizer">
+                  href="https://github.com/Shubham-1312/PathFindingVisualizer">
                   {' '}
                   PathFinder Visualizer code{' '}
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="https://prudhvignv.github.io">
-                  Check Out Other Cool Projects
                 </a>
               </li>
             </ul>
